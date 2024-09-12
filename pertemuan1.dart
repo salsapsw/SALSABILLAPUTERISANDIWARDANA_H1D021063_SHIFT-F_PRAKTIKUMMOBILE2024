@@ -93,12 +93,12 @@ void main() {
   Kasir kasir = Kasir();
 
   // Menambahkan barang ke daftar
-  kasir.tambahBarang(ItemBelanjaan('1', 'Beras', 50000));
-  kasir.tambahBarang(ItemBelanjaan('2', 'Minyak Goreng', 20000));
-  kasir.tambahBarang(ItemBelanjaan('3', 'Gula Pasir', 15000));
-  kasir.tambahBarang(ItemBelanjaan('4', 'Garam', 3000));
-  kasir.tambahBarang(ItemBelanjaan('5', 'Lada', 1000));
-  kasir.tambahBarang(ItemBelanjaan('6', 'Kecap', 5000));
+  kasir.tambahBarang(ItemBelanjaan('B1', 'Beras', 50000));
+  kasir.tambahBarang(ItemBelanjaan('B2', 'Minyak Goreng', 20000));
+  kasir.tambahBarang(ItemBelanjaan('B3', 'Gula Pasir', 15000));
+  kasir.tambahBarang(ItemBelanjaan('B4', 'Garam', 3000));
+  kasir.tambahBarang(ItemBelanjaan('B5', 'Lada', 1000));
+  kasir.tambahBarang(ItemBelanjaan('B6', 'Kecap', 5000));
 
   print('Salsa Shop\n Madiun \n ------------------------ \n ');
 
